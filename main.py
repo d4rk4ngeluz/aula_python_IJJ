@@ -1,2 +1,1 @@
-teste
-alguma coisa
+print("Olá, Joga Junto, cheguei pra somar")

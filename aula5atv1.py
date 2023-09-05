@@ -8,4 +8,3 @@ elif idade >= 17 and idade < 18:
 
 else:
     print("Você não possuem idade mínima para dirigir")
-

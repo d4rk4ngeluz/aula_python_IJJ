@@ -19,10 +19,12 @@ print(praias_lista)
 # Remova o primeiro dado da lista
 # O del é uma instrução em Python usada para remover elementos ou objetos de uma lista, dicionário ou qualquer outra estrutura de dados mutável.
 praias_lista.remove("Barra")
+print(praias_lista)
 
 # Remova o último dado da lista
 # O método pop() em Python é usado para remover e retornar o elemento de uma lista com base no índice fornecido como argumento.
 praias_lista.pop()
+print(praias_lista)
 
 # Faça um print com o primeiro dado da lista
 print("Primeiro dado da lista:", praias_lista[0])
@@ -32,7 +34,11 @@ print("Primeiro dado da lista:", praias_lista[0])
 print("Quantidade de dados na lista:", len(praias_lista))
 
 # Crie um dicionário com os seguintes dados: Nome, Idade, Profissão
-meu_dicionario = {"Nome": "Renato", "Idade": 45, "Profissão": "QA"}
+meu_dicionario = {
+    "Nome": "Renato",
+    "Idade": 45,
+    "Profissão": "QA"
+}
 
 # Imprima somente o valor contido na chave Nome do dicionário
 print("Nome:", meu_dicionario["Nome"])

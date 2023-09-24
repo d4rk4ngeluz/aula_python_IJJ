@@ -1,0 +1,17 @@
+{
+  "id": "5ff14930-d0d9-43e8-b955-9907c59058e4",
+  "version": "2.0",
+  "name": "Teste de envio de mensagem IJJ",
+  "url": "https://web.whatsapp.com/",
+  "tests": [],
+  "suites": [{
+    "id": "13f86b41-275b-4609-b64a-f08f89ebde3b",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://www.jogajuntoinstituto.org/"],
+  "plugins": []
+}

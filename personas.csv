@@ -1,11 +1,201 @@
-,Nome,Cidade
-0,Maria VitÃ³ria Cavalcanti,da Mota do Sul
-1,Ana Sophia Ferreira,Castro
-2,Sr. Marcos Vinicius Souza,Dias
-3,Enrico Ramos,Duarte de Minas
-4,Maria Eduarda Costela,Correia
-5,Ryan Mendes,Almeida de Pinto
-6,Pedro Miguel Cavalcanti,da Cunha
-7,Maria Fernanda Lima,Caldeira
-8,Camila das Neves,Costela do Galho
-9,Rafael da Paz,da Paz do Galho
+Nome,Idade,Cidade
+Bárbara Ferreira,35,Rocha
+Sra. Maria Cecília Silveira,30,da Costa
+Marina Moraes,75,Cardoso
+Daniela da Cunha,82,Gonçalves
+Luiz Gustavo Porto,86,Jesus de Novaes
+Letícia da Rocha,33,Almeida
+Letícia Lima,76,Rocha do Campo
+João Lucas Freitas,67,Azevedo
+Danilo da Rocha,66,Teixeira do Norte
+Sophia da Conceição,32,Moura
+Srta. Luna Souza,88,Lopes
+Luiz Otávio Vieira,70,da Mata da Mata
+Alice Campos,90,da Luz
+Clarice Melo,51,Barbosa
+Srta. Maria Alice Silva,44,das Neves da Mata
+Yago Cavalcanti,69,Rocha
+Stephany Melo,32,Barros
+Lucas Correia,34,Lima
+Dra. Natália Vieira,87,Farias
+Lorenzo Jesus,59,Gonçalves
+Vicente Teixeira,31,Farias
+Isis da Cunha,72,Souza do Galho
+Lucas Gabriel Pereira,40,Araújo de Goiás
+Murilo Lima,60,Moura
+Nicolas Silveira,82,Nascimento do Campo
+Luigi Azevedo,46,Fogaça
+Sr. Cauã Aragão,63,Azevedo de Nascimento
+Alana Moraes,20,Melo de Monteiro
+Emanuella Azevedo,57,Costa
+Sophia da Costa,48,Pinto
+Isabella Gomes,38,Monteiro do Campo
+Manuela das Neves,65,Barbosa
+Ana Lívia da Cruz,79,Alves Paulista
+Cauã Souza,40,da Mota
+Caio Rezende,28,Dias
+Bernardo Aragão,24,Cardoso
+Carolina Souza,56,Oliveira
+Ana Pinto,81,Azevedo
+Agatha Melo,43,da Cunha
+João Lucas da Cunha,38,Gonçalves
+Cecília Aragão,31,da Mota
+Emilly Pires,23,Fernandes de Farias
+Vitor Souza,30,Ferreira do Oeste
+Caroline Ribeiro,36,Barros
+Raul Silveira,39,Rezende do Amparo
+Sr. Alexandre Silva,77,Peixoto
+Carlos Eduardo Jesus,59,da Rosa
+Leandro Rezende,80,Barros das Flores
+Cecília Cardoso,71,Lopes do Norte
+Theo Novaes,69,Castro de Novaes
+Sr. Renan Nogueira,25,Oliveira
+Enzo Gabriel Cardoso,31,Martins
+Cauê Souza,39,Almeida do Oeste
+Breno Costela,67,da Rosa Paulista
+Luiz Otávio Rodrigues,45,Duarte
+Lucca Alves,63,Ferreira de Minas
+Milena Carvalho,68,Nogueira
+João Miguel Cavalcanti,68,Farias
+Lucca Correia,33,Alves Paulista
+Eloah da Mata,31,Vieira
+Luiz Felipe das Neves,64,Ferreira de Minas
+Dra. Alana Gomes,63,da Rocha da Praia
+Heitor Lopes,48,Azevedo
+Matheus Porto,89,Oliveira
+Larissa Rocha,58,Aragão
+Catarina Rocha,65,da Luz Alegre
+Daniel Oliveira,85,Peixoto
+Breno da Mota,76,Lopes
+Sofia Moreira,32,Duarte de Goiás
+Maria Vitória Ferreira,37,Martins
+Ana Clara da Rocha,67,Monteiro da Mata
+Bruna Lima,37,Carvalho das Flores
+Dra. Olivia Lima,48,Ferreira
+Murilo Rezende,50,Barbosa do Oeste
+Sra. Valentina Campos,22,Jesus
+Diogo Correia,33,Farias
+Thales Moura,22,da Luz da Praia
+Maria Vitória Caldeira,71,Almeida
+Rodrigo Nunes,64,da Conceição de Costa
+Melissa Gomes,27,Mendes
+Antônio Cardoso,41,Moraes
+Marcos Vinicius da Cruz,57,Cardoso
+Miguel da Cunha,37,Correia Grande
+Dra. Clara Sales,46,Carvalho
+Maysa Almeida,58,Ribeiro do Norte
+Lucca Mendes,90,da Luz
+Bianca Ferreira,20,Rodrigues
+Miguel Fogaça,36,Moura da Mata
+Rodrigo Ramos,56,Moreira
+Amanda Nascimento,64,Viana
+Samuel Carvalho,31,Caldeira
+Alice da Costa,38,Souza das Pedras
+Stella da Cunha,47,Martins Alegre
+Maria Alice Fernandes,46,da Rocha de Goiás
+Gustavo Gomes,79,Martins de da Luz
+Dra. Mirella Alves,41,Moraes da Serra
+Juan Aragão,83,da Rosa do Norte
+Maria Fernanda Porto,24,Cardoso
+Marina Nascimento,82,Monteiro da Mata
+Juliana Carvalho,59,Porto
+Stella Moraes,22,das Neves do Norte
+Dr. Yuri Caldeira,39,Teixeira
+Dr. Lucca Gonçalves,52,Pires
+Sr. João Guilherme Melo,43,Rocha Grande
+Daniela Nascimento,40,da Rocha
+Cecília Campos,41,da Costa da Serra
+Yago Teixeira,72,Almeida
+Dra. Eduarda Azevedo,85,Viana
+Sra. Cecília Fogaça,33,Porto Paulista
+Nathan Lima,64,Pinto
+Bianca Souza,64,Alves
+Renan Costela,76,Azevedo de Peixoto
+Lara Peixoto,52,Azevedo
+Luiz Felipe Rodrigues,28,da Rocha
+Ana Clara Souza,37,Costela
+Yuri Lopes,48,Silva
+Dr. Thomas Silva,21,Fogaça da Serra
+Julia Costela,51,da Costa
+Srta. Valentina Pereira,54,Carvalho Paulista
+Danilo da Mota,29,Cardoso das Pedras
+Lara Freitas,72,Vieira das Flores
+Bruna Porto,26,Nascimento Alegre
+Luiza Ramos,37,Pires
+Marcos Vinicius Fernandes,31,Ramos
+Guilherme Rezende,43,Rodrigues
+Dr. Gabriel Silveira,24,da Mota
+Luigi Silveira,19,da Paz
+Bernardo Santos,81,Costela
+Arthur Jesus,27,Cardoso do Campo
+Sr. Vitor Martins,55,Moreira Alegre
+Stephany Vieira,67,Sales
+Alexia da Cunha,40,Campos do Oeste
+Stella Moura,31,Carvalho dos Dourados
+Dr. Carlos Eduardo Cardoso,20,Costa
+Lorenzo Cardoso,87,da Costa da Mata
+Olivia Fernandes,81,Melo
+Miguel Castro,74,das Neves de Goiás
+Pietro das Neves,62,Mendes
+Luiza das Neves,34,da Mota
+Luana Ferreira,66,Araújo do Oeste
+Benício Melo,76,Nunes de Caldeira
+Maria Alice Nunes,21,Ferreira Grande
+Carolina Cardoso,50,Souza
+Gustavo Moraes,46,da Cruz de Rodrigues
+Heitor Silveira,75,Barbosa do Amparo
+Matheus Lima,84,Silveira do Galho
+Davi da Rosa,75,Rocha
+Thomas Nunes,61,Farias do Amparo
+Agatha da Luz,86,Costela
+Anthony da Costa,82,Almeida de Moura
+Luigi da Cunha,51,da Paz de Minas
+Calebe Vieira,87,da Rosa da Mata
+Mirella Cunha,79,Cardoso
+Esther Costa,32,Silveira
+Emilly Gonçalves,85,da Rosa
+Leandro da Mata,50,Nascimento do Galho
+Lavínia Ribeiro,64,da Cunha do Norte
+Luiz Henrique da Mata,46,da Rocha do Campo
+João Pedro da Rocha,45,Vieira
+Dr. Luiz Miguel Cardoso,70,Carvalho
+Matheus Lopes,45,Vieira
+Luiz Fernando Fernandes,77,Cardoso do Galho
+Luiz Fernando Farias,87,Azevedo do Campo
+Catarina Freitas,64,Ramos da Prata
+Joana Ribeiro,54,da Mata da Praia
+Maria Luiza da Mata,28,Cavalcanti da Prata
+Srta. Gabriela Costela,63,Moreira do Campo
+Pietro Melo,81,Mendes do Oeste
+Luigi Gomes,37,Cardoso de Goiás
+Cauã Moura,70,Cunha Grande
+Lorena da Mota,27,Santos
+Ana Sophia da Rosa,25,Carvalho de Goiás
+Maria Cecília Aragão,88,Duarte
+Marina da Cruz,40,Nascimento de Viana
+Nicolas Almeida,75,Correia
+Catarina Alves,55,Viana
+Diego da Paz,66,da Costa de Porto
+Eloah Silveira,78,da Rocha
+Cauê Rodrigues,34,Sales
+Fernando Campos,90,Santos dos Dourados
+Yasmin Fernandes,73,Rezende
+Marcos Vinicius das Neves,22,Sales do Galho
+Sr. Guilherme Souza,47,Ferreira
+Luiz Felipe Cunha,45,Araújo
+Pedro Ribeiro,72,Ribeiro de Minas
+Murilo da Mata,61,Moura
+André da Mata,56,Campos de Goiás
+Olivia Gonçalves,59,Gonçalves
+Sra. Sofia Pinto,28,Teixeira
+Murilo Farias,77,Gonçalves de Monteiro
+Diego Silveira,22,Rocha
+Luiz Fernando Oliveira,49,Nogueira
+Sr. Pedro Souza,18,Moreira das Pedras
+Srta. Isabel da Cruz,38,da Costa
+Bernardo Castro,75,Rodrigues
+Evelyn Castro,27,Farias da Prata
+Henrique Silveira,64,Santos da Prata
+Thiago Araújo,27,Fernandes da Mata
+Luiz Felipe da Luz,58,Cunha
+Thiago Almeida,45,Barbosa

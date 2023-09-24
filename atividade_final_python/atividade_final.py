@@ -9,7 +9,7 @@ url3 = "http://apilivro.jogajuntoinstituto.org/books/"
 # Dados dos autores para cadastro
 autores = [
     {"name": "Renato Fabricio"},
-    {"name": "Josie Fortuna"},
+    {"name": "Josie Guedes"},
     {"name": "Kate Batista"},
     {"name": "Ester Carvalho"}
 ]

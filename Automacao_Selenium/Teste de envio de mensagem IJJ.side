@@ -1,0 +1,21 @@
+{
+  "id": "5ff14930-d0d9-43e8-b955-9907c59058e4",
+  "version": "2.0",
+  "name": "Teste de envio de mensagem IJJ",
+  "url": "https://www.jogajuntoinstituto.org/",
+  "tests": [{
+    "id": "eece0a56-dd22-4012-8a8b-aedfb36ac3c6",
+    "name": "Untitled",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "13f86b41-275b-4609-b64a-f08f89ebde3b",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["eece0a56-dd22-4012-8a8b-aedfb36ac3c6"]
+  }],
+  "urls": [],
+  "plugins": []
+}

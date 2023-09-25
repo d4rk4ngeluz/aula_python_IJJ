@@ -739,3 +739,1286 @@ DevTools listening on ws://127.0.0.1:64563/devtools/browser/45562797-3c30-4be2-9
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 1695443178604	Marionette	INFO	Stopped listening on port 64573
 Dynamically enable window occlusion 1
+1695659853620	geckodriver	INFO	Listening on 127.0.0.1:61631
+1695659856604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilemAV7Od"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695659857040	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695659857165	Marionette	INFO	Listening on port 61644
+WebDriver BiDi listening on ws://127.0.0.1:61632
+Read port: 61644
+1695659857288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61632/devtools/browser/b32e28a9-e77a-4bae-a4a4-1d752b0c71fa
+1695659985291	Marionette	INFO	Stopped listening on port 61644
+Dynamically enable window occlusion 1
+1695660343286	geckodriver	INFO	Listening on 127.0.0.1:61945
+1695660346324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofile0tocED"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695660346710	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695660346823	Marionette	INFO	Listening on port 61956
+WebDriver BiDi listening on ws://127.0.0.1:61946
+Read port: 61956
+1695660347037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61946/devtools/browser/b5fbc2e5-fd60-49d2-87c3-262aa6bb7739
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 2: Script terminated by timeout at:
+F@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:9662
+Q@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:24370
+te@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:24774
+ue@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:26630
+214462/e.sign.detached.verify@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:30872
+67106/t.verifyMsgSignalVariant/<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:5:282984
+s@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:5:820421
+67106/t.verifyMsgSignalVariant@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:5:282559
+verifySignature@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:98403
+403206/t.verifySignature@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:43:222968
+678002/t.verifyKeyIndexListAccountSignature@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:358586
+716151/t.decodeSignedKeyIndexBytes@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:374214
+161744/t.handleKeyIndexResult@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:375975
+644753/t.handleADVSyncResult@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:375040
+798440/m/m</<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:356995
+798440/m/m<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:356867
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+
+1695660376250	Marionette	INFO	Stopped listening on port 61956
+Dynamically enable window occlusion 1
+1695660654379	geckodriver	INFO	Listening on 127.0.0.1:62150
+1695660657399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileepyOwz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695660657721	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695660657839	Marionette	INFO	Listening on port 62161
+WebDriver BiDi listening on ws://127.0.0.1:62151
+Read port: 62161
+1695660658009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62151/devtools/browser/e33a269d-d2ae-4a11-a899-4991daf9daa0
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 14: Invariant Violation: [model-storage] Storage should be created first before being accessed
+JavaScript error: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 14: Invariant Violation: [model-storage] Storage should be created first before being accessed
+1695661582642	Marionette	INFO	Stopped listening on port 62161
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1695661582766	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:215
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+32917
+146375/t.default@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:333856
+305521/O/this.render@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:92:1020205
+Os@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:77626
+ks@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:77424
+wu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:121107
+vl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109102
+pl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109030
+hl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:108891
+tl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:104005
+x@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1365
+R@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1896
+
+1695660878701	Marionette	INFO	Stopped listening on port 62378
+Dynamically enable window occlusion 1
+1695661095325	geckodriver	INFO	Listening on 127.0.0.1:62555
+1695661098403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62556" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofile80c6sN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695661098774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695661098893	Marionette	INFO	Listening on port 62565
+WebDriver BiDi listening on ws://127.0.0.1:62556
+Read port: 62565
+1695661099133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62556/devtools/browser/78b6d7f6-9f14-4cf9-b115-4ff3dd709ac0
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 7: Script terminated by timeout at:
+986128/Ot/bulkPut/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:34308
+986128/Ot/_idbstore/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:31339
+986128/Ot/_promise/</e<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:39465
+De@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:9345
+Me@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:8845
+986128/Ot/_promise/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:39426
+st@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:15103
+Je@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:13997
+_promise@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:39405
+_trans@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:31044
+_idbstore@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:31215
+bulkPut@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:33670
+bulkCreateOrReplace@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:266236
+299840/bulkCreateOrReplace/<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:277145
+_write@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:276205
+bulkCreateOrReplace@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:277132
+275909/S/S<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:329843
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+348926/e.exports/</<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66754
+De@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:9345
+Me@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:8845
+348926/e.exports/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66634
+275909/t.bulkCreateOrReplaceDeviceRecord@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:328356
+715118/T/T</<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:447410
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+348926/e.exports/</<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66754
+De@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:9345
+Me@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:8845
+348926/e.exports/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66634
+720196/t.getDeviceUpdateLock/<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:331758
+964978/lock/<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:250439
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+348926/e.exports/</<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66754
+De@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:9345
+Me@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:8845
+348926/e.exports/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66634
+53993/transact/<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:274524
+986128/Ot/this._transaction/o/</u<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:30351
+986128/follow/</<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:13550
+st@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:15103
+Je@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:13997
+986128/follow/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:13269
+De@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:9345
+Me@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:8845
+follow@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:13240
+986128/Ot/this._transaction/o/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:30325
+986128/ut/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:15228
+Le@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:10440
+Ye@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:11197
+Be@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:11048
+
+1695661141985	Marionette	INFO	Stopped listening on port 62565
+Dynamically enable window occlusion 1
+1695661442009	geckodriver	INFO	Listening on 127.0.0.1:62815
+1695661445091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilex8UUUf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695661445461	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695661445585	Marionette	INFO	Listening on port 62825
+WebDriver BiDi listening on ws://127.0.0.1:62816
+Read port: 62825
+1695661445819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62816/devtools/browser/b3964c78-b931-4394-b64d-368077bf9fe8
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 39: Script terminated by timeout at:
+k@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:39:1304
+526795/v<@https://web.whatsapp.com/main.1865f1b812c75c8c32ca.js:5:1303478
+_o@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:62964
+bs@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:73023
+wu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:122205
+vl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109102
+pl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109030
+hl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:108891
+al@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:106034
+Fi@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:46805
+364448/el/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:103606
+
+1695661486684	Marionette	INFO	Stopped listening on port 62825
+Dynamically enable window occlusion 1
+1695661593132	geckodriver	INFO	Listening on 127.0.0.1:62966
+1695661596198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilewb1CGd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695661596601	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695661596723	Marionette	INFO	Listening on port 62977
+WebDriver BiDi listening on ws://127.0.0.1:62967
+Read port: 62977
+1695661597011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62967/devtools/browser/c22d970c-1a77-4a1f-93f4-a837bad42c84
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 30: Script terminated by timeout at:
+Go@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:67113
+872408/t.useCallback@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:39:5495
+17533/t.default@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:525266
+808446/t.useListener@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:520955
+682828/t.useCollectionValues@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:514967
+871210/t.useMsgValues@https://web.whatsapp.com/main.1865f1b812c75c8c32ca.js:6:690774
+153114/ie<@https://web.whatsapp.com/main.1865f1b812c75c8c32ca.js:6:187350
+_o@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:62964
+bs@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:73023
+wu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:122205
+vl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109102
+pl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109030
+hl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:108891
+tl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:104005
+x@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1365
+R@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1896
+
+1695661875564	Marionette	INFO	Stopped listening on port 62977
+Dynamically enable window occlusion 1
+1695661906628	geckodriver	INFO	Listening on 127.0.0.1:63184
+1695661909635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileHAsT5G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695661910004	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695661910132	Marionette	INFO	Listening on port 63197
+WebDriver BiDi listening on ws://127.0.0.1:63185
+Read port: 63197
+1695661910380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63185/devtools/browser/c5f5b1f4-9fb5-4564-97c2-b28ce2a132d9
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 14: Script terminated by timeout at:
+mn@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:14:81007
+timeStr@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:1092178
+902538/t.default@https://web.whatsapp.com/main.1865f1b812c75c8c32ca.js:6:167903
+_o@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:62964
+Es@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:74595
+wu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:121025
+vl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109102
+pl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109030
+hl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:108891
+tl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:104005
+x@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1365
+R@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1896
+
+1695661980174	Marionette	INFO	Stopped listening on port 63197
+Dynamically enable window occlusion 1
+1695662243029	geckodriver	INFO	Listening on 127.0.0.1:63429
+1695662246051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63430" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilePt7CtA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695662246423	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695662246553	Marionette	INFO	Listening on port 63440
+WebDriver BiDi listening on ws://127.0.0.1:63430
+Read port: 63440
+1695662246805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63430/devtools/browser/8303b3ea-fda7-4ecb-82af-5d614a5c64da
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695663511366	Marionette	INFO	Stopped listening on port 63440
+Dynamically enable window occlusion 1
+1695663643007	geckodriver	INFO	Listening on 127.0.0.1:64220
+1695663646054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileBBCo0j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695663646424	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695663646550	Marionette	INFO	Listening on port 64231
+WebDriver BiDi listening on ws://127.0.0.1:64221
+Read port: 64231
+1695663646787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64221/devtools/browser/ce451377-3786-42f8-afca-8310d167bf5d
+1695663803015	geckodriver	INFO	Listening on 127.0.0.1:64395
+1695663806035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64396" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileeQjUzC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695663806395	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695663806510	Marionette	INFO	Listening on port 64405
+WebDriver BiDi listening on ws://127.0.0.1:64396
+Read port: 64405
+1695663806733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64396/devtools/browser/60178581-65ee-4be6-8c0f-5c4f2331d6cd
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+1695663851507	Marionette	INFO	Stopped listening on port 64405
+Dynamically enable window occlusion 1
+1695663882140	geckodriver	INFO	Listening on 127.0.0.1:64487
+1695663885190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileD729uo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695663885494	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695663885612	Marionette	INFO	Listening on port 64497
+WebDriver BiDi listening on ws://127.0.0.1:64488
+Read port: 64497
+1695663885841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64488/devtools/browser/3af7eb28-ead8-4f0a-bc77-a511a1a2cf64
+JavaScript warning: https://web.whatsapp.com/app.896b392b51c1b38bc49c.js, line 54: Script terminated by timeout at:
+get@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:352264
+y@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:399901
+A@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:400365
+459857/t.isSerializedWidMe@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:398530
+c@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:103889
+696859/g/g</t<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:104485
+696859/g/g<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:104473
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+348926/e.exports/</<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66754
+348926/e.exports/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66634
+696859/t.filterChatsWithAddOnPreviewUpdates@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:103662
+189865/W/W<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:102725
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+348926/e.exports/</<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66754
+348926/e.exports/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66634
+j@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:102600
+189865/V/V<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:103375
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+
+1695663972025	Marionette	INFO	Stopped listening on port 64497
+Dynamically enable window occlusion 1
+1695663979668	geckodriver	INFO	Listening on 127.0.0.1:64602
+1695663982741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilePq4usi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695663983097	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695663983219	Marionette	INFO	Listening on port 64612
+WebDriver BiDi listening on ws://127.0.0.1:64603
+Read port: 64612
+1695663983458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64603/devtools/browser/13ce6d41-0054-47c4-a318-2a69d7d39458
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695664310498	Marionette	INFO	Stopped listening on port 64612
+Dynamically enable window occlusion 1
+1695664313182	geckodriver	INFO	Listening on 127.0.0.1:64854
+1695664316180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileYdS5io"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695664316698	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695664316811	Marionette	INFO	Listening on port 64865
+WebDriver BiDi listening on ws://127.0.0.1:64855
+Read port: 64865
+1695664317041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64855/devtools/browser/73c4f73c-ced9-4cd9-92cb-e8dcadb6f041
+JavaScript error: , line 0: uncaught exception: Object
+1695664510238	Marionette	INFO	Stopped listening on port 64865
+Dynamically enable window occlusion 1
+.exe" "--marionette" "--remote-debugging-port" "64989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileNrFQuX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695664444447	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695664444586	Marionette	INFO	Listening on port 65003
+WebDriver BiDi listening on ws://127.0.0.1:64989
+Read port: 65003
+1695664444965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64989/devtools/browser/392962cc-8b71-4ac3-a3f9-4ac12fa22aa7
+1695664507389	Marionette	INFO	Stopped listening on port 65003
+Dynamically enable window occlusion 1
+1695664527212	geckodriver	INFO	Listening on 127.0.0.1:65084
+1695664530218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileIaoL5y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695664530547	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695664530671	Marionette	INFO	Listening on port 65094
+WebDriver BiDi listening on ws://127.0.0.1:65085
+Read port: 65094
+1695664530930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65085/devtools/browser/72e5631b-a8a1-47a8-86b9-1116a40e3741
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695664605129	Marionette	INFO	Stopped listening on port 65094
+Dynamically enable window occlusion 1
+1695664626824	geckodriver	INFO	Listening on 127.0.0.1:65186
+1695664629872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilexyAXVR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695664630192	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695664630305	Marionette	INFO	Listening on port 65196
+WebDriver BiDi listening on ws://127.0.0.1:65187
+Read port: 65196
+1695664630477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65187/devtools/browser/636f4cfe-c749-4df6-a465-d06fa5a2501b
+JavaScript error: , line 0: uncaught exception: Object
+1695665238062	Marionette	INFO	Stopped listening on port 65196
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1695665238160	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:215
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+1695665380352	geckodriver	INFO	Listening on 127.0.0.1:49449
+1695665383394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49450" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofile67ns75"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695665383715	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695665383831	Marionette	INFO	Listening on port 49459
+WebDriver BiDi listening on ws://127.0.0.1:49450
+Read port: 49459
+1695665383902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49450/devtools/browser/74b92d81-32e1-4f8d-b16d-abe6f9e04c1d
+1695665443976	Marionette	INFO	Stopped listening on port 49459
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 2: Script terminated by timeout at:
+i@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:67632
+81109/e.exports@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:67841
+721694/t.default@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:92:345691
+263674/t.parseProtobuf@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:188351
+@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:212603
+f@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:213102
+75540/t.parseWebMessageInfo@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:421815
+615263/t.parseWebMsgInfoAndReturnNullOnFailure@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:156830
+9122/ee/ee<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:45847
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+
+Dynamically enable window occlusion 1
+1695665711068	geckodriver	INFO	Listening on 127.0.0.1:49676
+1695665714095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilejDfk4t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695665714450	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695665714564	Marionette	INFO	Listening on port 49686
+WebDriver BiDi listening on ws://127.0.0.1:49677
+Read port: 49686
+1695665714808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49677/devtools/browser/be300e63-0f4f-44f1-8268-894e4650ec43
+JavaScript warning: https://web.whatsapp.com/app.896b392b51c1b38bc49c.js, line 54: Script terminated by timeout at:
+get@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:352264
+_@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:399214
+f@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:399345
+E@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:399651
+459857/t.isMePrimary@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:398341
+f@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:219185
+75540/t.parseWebMessageInfo@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:420223
+615263/t.parseWebMsgInfoAndReturnNullOnFailure@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:156830
+9122/ee/ee<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:48:45847
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+
+1695665809372	Marionette	INFO	Stopped listening on port 49686
+Dynamically enable window occlusion 1
+1695665834715	geckodriver	INFO	Listening on 127.0.0.1:49782
+1695665837735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofiled6pIjb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695665838045	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695665838160	Marionette	INFO	Listening on port 49793
+WebDriver BiDi listening on ws://127.0.0.1:49783
+Read port: 49793
+1695665838335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49783/devtools/browser/1db91aa2-afe6-4174-aec1-6fb0d27724a0
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 2: Script terminated by timeout at:
+337316/e.exports@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:68527
+506479/e.exports@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:68241
+M@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:51774
+_o@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:62964
+bs@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:73023
+wu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:122205
+vl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109102
+pl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109030
+hl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:108891
+tl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:104005
+x@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1365
+R@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1896
+
+1695665891361	Marionette	INFO	Stopped listening on port 49793
+Dynamically enable window occlusion 1
+1695666053268	geckodriver	INFO	Listening on 127.0.0.1:49957
+1695666056292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileP4Dlpw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695666056632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695666056747	Marionette	INFO	Listening on port 49967
+WebDriver BiDi listening on ws://127.0.0.1:49958
+Read port: 49967
+1695666056978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49958/devtools/browser/1b744dec-d4de-48d9-b5aa-b35bdfb8f464
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://web.whatsapp.com/app.896b392b51c1b38bc49c.js, line 54: Script terminated by timeout at:
+382849/t.convert/c<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:194027
+382849/t.convert@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:194072
+481173/t.defineModel@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:178085
+914003@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:948664
+t@https://web.whatsapp.com/runtime.cba4e17950a16ff68655.js:1:215
+434989@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:942161
+t@https://web.whatsapp.com/runtime.cba4e17950a16ff68655.js:1:215
+482503@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:92:863921
+t@https://web.whatsapp.com/runtime.cba4e17950a16ff68655.js:1:215
+772358@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:892825
+t@https://web.whatsapp.com/runtime.cba4e17950a16ff68655.js:1:215
+61113@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:873661
+t@https://web.whatsapp.com/runtime.cba4e17950a16ff68655.js:1:215
+795506@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:51:118249
+t@https://web.whatsapp.com/runtime.cba4e17950a16ff68655.js:1:215
+304528@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:51:195990
+t@https://web.whatsapp.com/runtime.cba4e17950a16ff68655.js:1:215
+429933@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:51:518089
+t@https://web.whatsapp.com/runtime.cba4e17950a16ff68655.js:1:215
+446709@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:968964
+t@https://web.whatsapp.com/runtime.cba4e17950a16ff68655.js:1:215
+336884/s/s<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:1115098
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+
+1695666300596	Marionette	INFO	Stopped listening on port 49967
+Dynamically enable window occlusion 1
+1695666304544	geckodriver	INFO	Listening on 127.0.0.1:50137
+1695666307579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileJLunbG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695666307937	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695666308052	Marionette	INFO	Listening on port 50148
+WebDriver BiDi listening on ws://127.0.0.1:50138
+Read port: 50148
+1695666308279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50138/devtools/browser/7fe3c9ee-daff-4990-9f71-514d5332b2e5
+1695666362768	Marionette	INFO	Stopped listening on port 50148
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1695667146345	geckodriver	INFO	Listening on 127.0.0.1:50700
+1695667149378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilexpeTVj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695667149848	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695667149994	Marionette	INFO	Listening on port 50712
+WebDriver BiDi listening on ws://127.0.0.1:50701
+Read port: 50712
+1695667150365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50701/devtools/browser/ef620a21-357f-4034-b564-0073d05aae71
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/app.896b392b51c1b38bc49c.js, line 50: NotInitializedError: Initialize storage before attempting to lock tables!
+JavaScript error: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 14: Invariant Violation: [model-storage] Storage should be created first before being accessed
+JavaScript warning: https://web.whatsapp.com/app.896b392b51c1b38bc49c.js, line 73: Script terminated by timeout at:
+S@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:73:1993
+
+1695667485100	Marionette	INFO	Stopped listening on port 50712
+Dynamically enable window occlusion 1
+r BiDi listening on ws://127.0.0.1:50861
+Read port: 50871
+1695667342444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1695667344868	Marionette	INFO	Stopped listening on port 50871
+Dynamically enable window occlusion 1
+1695667344882	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+!!! error running onStopped callback: TypeError: callback is not a function
+1695667492558	geckodriver	INFO	Listening on 127.0.0.1:50980
+1695667495593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileo04EZF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695667495942	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695667496065	Marionette	INFO	Listening on port 50992
+WebDriver BiDi listening on ws://127.0.0.1:50981
+Read port: 50992
+1695667496338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50981/devtools/browser/0c8d2f0a-5133-4956-8c35-ec1ffdf732c6
+JavaScript warning: https://web.whatsapp.com/app.896b392b51c1b38bc49c.js, line 54: Script terminated by timeout at:
+_query@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:175109
+find@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:173573
+_refreshStaleModel@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:179857
+incObservers@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:54:180042
+attachConcern@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:164645
+655241/c/<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:523203
+eu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:93422
+bl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:113679
+364448/yl/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:110275
+x@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1365
+R@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1896
+
+1695667551095	Marionette	INFO	Stopped listening on port 50992
+Dynamically enable window occlusion 1
+1695667718844	geckodriver	INFO	Listening on 127.0.0.1:51206
+1695667721867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileAtH7BV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695667722169	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695667722284	Marionette	INFO	Listening on port 51217
+WebDriver BiDi listening on ws://127.0.0.1:51207
+Read port: 51217
+1695667722589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51207/devtools/browser/a81771f8-aa20-4019-a282-50e91a728d2d
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 39: Script terminated by timeout at:
+k@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:39:1412
+305521/O/this.render@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:92:1020840
+Os@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:77626
+ks@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:77424
+wu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:121107
+vl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109102
+pl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109030
+hl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:108891
+tl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:104005
+x@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1365
+R@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1896
+
+1695667782514	Marionette	INFO	Stopped listening on port 51217
+Dynamically enable window occlusion 1
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1695667783866	geckodriver	INFO	Listening on 127.0.0.1:51296
+1695667786920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileIfYpdf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695667787275	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695667787387	Marionette	INFO	Listening on port 51306
+WebDriver BiDi listening on ws://127.0.0.1:51297
+Read port: 51306
+1695667787615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51297/devtools/browser/2cc024dd-aa44-4cab-aefe-f150a7cbd84d
+1695667829748	Marionette	INFO	Stopped listening on port 51306
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 7: Script terminated by timeout at:
+986128/x/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:1573
+
+Dynamically enable window occlusion 1
+1695668025529	geckodriver	INFO	Listening on 127.0.0.1:51480
+1695668028560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileeNJIKf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695668028868	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695668028979	Marionette	INFO	Listening on port 51491
+WebDriver BiDi listening on ws://127.0.0.1:51481
+Read port: 51491
+1695668029146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51481/devtools/browser/f84242c1-4317-45ae-a452-1b75c986d52b
+1695668074119	Marionette	INFO	Stopped listening on port 51491
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 7: Script terminated by timeout at:
+986128/Ot/</anyOf/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:43740
+986128/Ot/Ue/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:23217
+986128/Ot/Oe/e.onsuccess<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:22758
+986128/x/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:1582
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1695668134555	geckodriver	INFO	Listening on 127.0.0.1:51592
+1695668137637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileMKGbis"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695668137993	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695668138105	Marionette	INFO	Listening on port 51602
+WebDriver BiDi listening on ws://127.0.0.1:51593
+Read port: 51602
+1695668138337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51593/devtools/browser/07ffbad3-b733-4a68-b6ca-fd85e2a9d12a
+1695668180920	Marionette	INFO	Stopped listening on port 51602
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 62: Script terminated by timeout at:
+T@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:62:40800
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1695668276510	geckodriver	INFO	Listening on 127.0.0.1:51720
+1695668279550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileAvy4no"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695668279911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695668280033	Marionette	INFO	Listening on port 51732
+WebDriver BiDi listening on ws://127.0.0.1:51721
+Read port: 51732
+1695668280334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51721/devtools/browser/e44b0c62-67da-426c-a8ef-1eb3efecb3c7
+1695668318924	Marionette	INFO	Stopped listening on port 51732
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 2: Script terminated by timeout at:
+F@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:9662
+V@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:13806
+214462/ue/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:26367
+ue@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:26541
+214462/e.sign.detached.verify@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:30872
+67106/t.verifyMsgSignalVariant/<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:5:282984
+s@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:5:820421
+67106/t.verifyMsgSignalVariant@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:5:282559
+verifySignature@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:50:98403
+403206/t.verifySignature@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:43:222968
+678002/t.verifyKeyIndexListAccountSignature@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:358586
+716151/t.decodeSignedKeyIndexBytes@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:374214
+161744/t.handleKeyIndexResult@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:375975
+644753/t.handleADVSyncResult@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:375040
+798440/m/m</<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:356995
+798440/m/m<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:49:356867
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1695668435952	geckodriver	INFO	Listening on 127.0.0.1:51869
+1695668438995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileiaRZTP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695668439350	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695668439469	Marionette	INFO	Listening on port 51880
+WebDriver BiDi listening on ws://127.0.0.1:51870
+Read port: 51880
+1695668439711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51870/devtools/browser/f444ffee-89c7-4a8c-ae6c-90bed7b08f37
+1695668480415	Marionette	INFO	Stopped listening on port 51880
+JavaScript warning: https://web.whatsapp.com/app.896b392b51c1b38bc49c.js, line 43: Script terminated by timeout at:
+E@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:43:63722
+846191/t.useShouldShowDesktopUpsellButterbar/<@https://web.whatsapp.com/main.1865f1b812c75c8c32ca.js:5:1109381
+846191/t.useShouldShowDesktopUpsellButterbar@https://web.whatsapp.com/main.1865f1b812c75c8c32ca.js:5:1109416
+P@https://web.whatsapp.com/main.1865f1b812c75c8c32ca.js:5:1119211
+_o@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:62964
+bs@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:73023
+wu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:122205
+vl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109102
+pl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109030
+hl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:108891
+tl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:104005
+x@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1365
+R@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1896
+
+Dynamically enable window occlusion 1
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1695668616250	geckodriver	INFO	Listening on 127.0.0.1:52020
+1695668619286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileEstOw9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695668619616	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695668619740	Marionette	INFO	Listening on port 52031
+WebDriver BiDi listening on ws://127.0.0.1:52021
+Read port: 52031
+1695668619977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52021/devtools/browser/8b76a569-3307-4fa0-b6e7-e6562bd582a8
+1695668673824	Marionette	INFO	Stopped listening on port 52031
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 30: Script terminated by timeout at:
+Nl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:115039
+Tl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:115419
+Rl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:115552
+i@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:56752
+e@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:60678
+ys@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:72942
+wu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:121969
+vl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109102
+pl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109030
+hl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:108891
+tl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:104005
+x@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1365
+R@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1896
+
+Dynamically enable window occlusion 1
+1695668758142	geckodriver	INFO	Listening on 127.0.0.1:52141
+1695668761180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileUO13lu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695668761521	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695668761634	Marionette	INFO	Listening on port 52151
+WebDriver BiDi listening on ws://127.0.0.1:52142
+Read port: 52151
+1695668761870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52142/devtools/browser/ec7aeb70-861e-458e-8b8d-c670b38763f1
+1695668802183	Marionette	INFO	Stopped listening on port 52151
+Dynamically enable window occlusion 1
+1695669770955	geckodriver	INFO	Listening on 127.0.0.1:52806
+1695669773972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileIXuIhW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695669774320	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695669774429	Marionette	INFO	Listening on port 52817
+WebDriver BiDi listening on ws://127.0.0.1:52807
+Read port: 52817
+1695669774646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52807/devtools/browser/3434a319-5228-4928-9a8e-4db830f8cf2a
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695670198272	Marionette	INFO	Stopped listening on port 52817
+Dynamically enable window occlusion 1
+dso\\AppData\\Local\\Temp\\rust_mozprofileeZNurS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695669950425	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695669950538	Marionette	INFO	Listening on port 52956
+WebDriver BiDi listening on ws://127.0.0.1:52945
+Read port: 52956
+1695669950796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52945/devtools/browser/7c732245-ae91-4675-ac21-bc65b028bebd
+1695670014680	Marionette	INFO	Stopped listening on port 52956
+Dynamically enable window occlusion 1
+1695670212665	geckodriver	INFO	Listening on 127.0.0.1:53159
+1695670215694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileaKAp5e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695670216023	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695670216134	Marionette	INFO	Listening on port 53170
+Read port: 53170
+WebDriver BiDi listening on ws://127.0.0.1:53160
+1695670216197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53160/devtools/browser/86ed6445-bc98-4e9a-a258-5b5e7e1538c6
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/, line 2: Error: Unexpected null or undefined: me
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1695670687985	Marionette	INFO	Stopped listening on port 53170
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofile0weYT6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695670539502	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695670539660	Marionette	INFO	Listening on port 53490
+WebDriver BiDi listening on ws://127.0.0.1:53477
+Read port: 53490
+1695670539882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53477/devtools/browser/c327a255-9760-43bc-ab72-59f10e8d7fea
+1695670585890	Marionette	INFO	Stopped listening on port 53490
+JavaScript warning: https://web.whatsapp.com/app.896b392b51c1b38bc49c.js, line 96: Script terminated by timeout at:
+c@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:522612
+655241/t.useModelValues@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:96:522332
+262290/t.default@https://web.whatsapp.com/main.1865f1b812c75c8c32ca.js:5:1176305
+_o@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:62964
+Es@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:74595
+wu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:121025
+vl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109102
+pl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109030
+hl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:108891
+tl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:104005
+x@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1365
+R@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1896
+
+Dynamically enable window occlusion 1
+1695670779420	geckodriver	INFO	Listening on 127.0.0.1:53670
+1695670782449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileXoLHHC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695670782862	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695670782970	Marionette	INFO	Listening on port 53681
+WebDriver BiDi listening on ws://127.0.0.1:53671
+Read port: 53681
+1695670783198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53671/devtools/browser/6501d10b-d361-4955-8e56-19f7298d0ea7
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1695671945840	Marionette	INFO	Stopped listening on port 53681
+Dynamically enable window occlusion 1
+--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilebDTeHO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695671362930	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695671363046	Marionette	INFO	Listening on port 54096
+WebDriver BiDi listening on ws://127.0.0.1:54084
+Read port: 54096
+1695671363268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54084/devtools/browser/a212f2e7-9a3d-40bc-8140-5e3202c372ce
+[Child 15960, MediaDecoderStateMachine #2] WARNING: 21a12cf0780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.m1695671942062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilenMt4dG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695671942563	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695671942691	Marionette	INFO	Listening on port 54495
+WebDriver BiDi listening on ws://127.0.0.1:54485
+Read port: 54495
+1695671942898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54485/devtools/browser/fe7b63a9-c061-415f-a5b7-ddbe094cd858
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695672216500	Marionette	INFO	Stopped listening on port 54495
+Dynamically enable window occlusion 1
+1695672239324	geckodriver	INFO	Listening on 127.0.0.1:54708
+1695672242389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileRlAR6i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695672242738	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695672242851	Marionette	INFO	Listening on port 54719
+WebDriver BiDi listening on ws://127.0.0.1:54709
+Read port: 54719
+1695672243066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54709/devtools/browser/e9232644-5eba-4a01-9ad3-b4adec4bb8cd
+JavaScript error: , line 0: uncaught exception: Object
+1695672421685	Marionette	INFO	Stopped listening on port 54719
+Dynamically enable window occlusion 1
+1695672528980	geckodriver	INFO	Listening on 127.0.0.1:54964
+1695672531981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilemM4v4W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695672532340	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695672532476	Marionette	INFO	Listening on port 54986
+WebDriver BiDi listening on ws://127.0.0.1:54965
+Read port: 54986
+1695672532764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54965/devtools/browser/adaba5fe-30db-48d7-b06a-ebf9b7a0f167
+1695672584586	Marionette	INFO	Stopped listening on port 54986
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 2: Script terminated by timeout at:
+859713/e.exports@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66865
+81109/e.exports/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:67879
+81109/e.exports@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:67857
+907539/t.dbRowFromMessage@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:43:312515
+890490/m/m<@https://web.whatsapp.com/app.896b392b51c1b38bc49c.js:43:295741
+t@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66483
+s@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:2:66695
+
+Dynamically enable window occlusion 1
+1695672891186	geckodriver	INFO	Listening on 127.0.0.1:55284
+1695672894215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofileAz7LfV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695672894541	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695672894701	Marionette	INFO	Listening on port 55294
+WebDriver BiDi listening on ws://127.0.0.1:55285
+Read port: 55294
+1695672894920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55285/devtools/browser/613eb44e-3d77-41d5-96af-7ae3a27f2837
+1695672953350	Marionette	INFO	Stopped listening on port 55294
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 30: Script terminated by timeout at:
+364448/wu/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:119255
+wu@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:119971
+vl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109102
+pl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:109030
+hl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:108891
+tl@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:30:104005
+x@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1365
+R@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:48:1896
+
+Dynamically enable window occlusion 1
+1695672999048	geckodriver	INFO	Listening on 127.0.0.1:55397
+1695673002068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rfdso\\AppData\\Local\\Temp\\rust_mozprofilePRMMZm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695673002378	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695673002492	Marionette	INFO	Listening on port 55413
+WebDriver BiDi listening on ws://127.0.0.1:55398
+Read port: 55413
+1695673002663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55398/devtools/browser/dbe43860-0bbb-49eb-b056-2033f86263d2
+1695673048132	Marionette	INFO	Stopped listening on port 55413
+JavaScript warning: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js, line 7: Script terminated by timeout at:
+986128/De/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:9355
+986128/Ot/put/</a.onsuccess<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:37145
+986128/We/<@https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js:7:11507
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
